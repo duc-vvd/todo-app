@@ -1,0 +1,17 @@
+.TodoItem {
+    padding: 0.8em 1.2em;
+    background: #ffffff;
+    color: #616161;
+    font-size: 1.3em;
+    border: 1px solid #66beca;
+    border-radius: 16px;
+    margin-top: 0.5rem;
+}
+.TodoItem-complete {
+    background: #8fd3dd;
+    color: #ffffff;
+    text-decoration: line-through;
+}
+.TodoItem-title {
+    margin: 0;
+}
